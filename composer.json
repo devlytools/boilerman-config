@@ -1,0 +1,19 @@
+{
+    "name": "devly/boilerman-config",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valentin Jebelev",
+            "email": "vala.jebelev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "Devly\\BoilermanConfig\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
